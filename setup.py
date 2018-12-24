@@ -18,7 +18,7 @@ def get_requirements(suffix=''):
     return rv
 
 setup(
-    name='Flask-FileUpload',
+    name='GC-Flask-FileUpload',
     version="0.5.0",
     url='https://github.com/speedy1991/Flask-FileUpload',
     license='MIT',
